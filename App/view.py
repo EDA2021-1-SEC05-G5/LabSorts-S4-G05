@@ -91,6 +91,7 @@ def printResults(ord_books, sample=10):
                 book['isbn'] + ' Rating: ' + book['average_rating'])
             i+=1
 
+
 catalog = None
 
 """
